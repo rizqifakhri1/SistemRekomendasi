@@ -1,0 +1,134 @@
+{
+    "segmentasi citra": {
+      "sinonim": ["segmentasi gambar", "segmentasi foto", "pemisahan citra"]
+    },
+    "kanker": {
+      "sinonim": ["kanker", "karsinoma", "tumor"]
+    },
+    "mobile aplication": {
+      "sinonim": ["android", "ios", "mobile app", "aplikasi mobile"]
+    },
+    "pengembangan": {
+      "sinonim": ["desain", "pembuatan","perancangan","pengembangan", "pengembang", "pembangunan", "pengelolaan", "development", "developing"]
+    },
+    "bahan ajar": {
+      "sinonim": ["materi pembelajaran", "modul pelajaran", "materi pengajaran", "media pembelajaran" ,"alat bantu pembelajaran", "sarana pendidikan", "media edukasi", "module pembelajaran", "media ajar"]
+    },
+    "website": {
+      "sinonim": ["situs web", "laman web", "portal"]
+    },
+    "analisis sentimen": {
+      "sinonim": ["penganalisisan sentimen", "penilaian emosi", "evaluasi perasaan"]
+    },
+    "review": {
+      "sinonim": ["ulasan", "komentar", "tanggapan"]
+    },
+    "svm": {
+      "sinonim": ["support vector machine "]
+    },
+    "rpl": {
+      "sinonim": ["rekayasa perangkat lunak", "pengembangan perangkat lunak", "pemrograman perangkat lunak"]
+    },
+    "sistem pendukung keputusan": {
+      "sinonim": ["spk", "sistem dukungan keputusan", "sistem penunjang keputusan", "sistem bantu keputusan"]
+    },
+    "rekomendasi": {
+      "sinonim": ["pilihan", "saran"]
+    },
+    "saw": {
+      "sinonim": ["simple additive weighting"]
+    },
+    "cerdas": {
+      "sinonim": ["pintar", "canggih", "pandai"]
+    },
+    "tugas akhir": {
+      "sinonim": ["skripsi", "tesis", "disertasi"]
+    },
+    "pelajar": {
+      "sinonim": ["pelajar", "peserta didik"]
+    },
+    "simulasi": {
+      "sinonim": ["pemodelan", "pemrosesan", "percobaan"]
+    },
+    "manajemen kelas": {
+      "sinonim": ["pengaturan kelas", "pembinaan kelas", "pengelolaan kelas"]
+    },
+    "ai": {
+      "sinonim": ["kecerdasan buatan", "artificial intelligence"]
+    },
+    "news summarization": {
+      "sinonim": ["ringkasan berita", "ringkasan kabar", "sintesis berita"]
+    },
+    "pendidikan teknik informatika dan komputer": {
+      "sinonim": ["ptik"]
+    },
+    "universitas negeri semarang": {
+      "sinonim": ["unnes"]
+    },
+    "prestasi": {
+      "sinonim": ["keberhasilan", "kinerja", "keunggulan"]
+    },
+    "medsos": {
+      "sinonim": ["twiter", "facebook", "instagram", "snapchat", "jaringan sosial", "social media", "media social", "media sosial"]
+    },
+    "data mining": {
+      "sinonim": ["penambangan data", "ekstraksi data", "analisis data"]
+    },
+    "mbkm": {
+      "sinonim": ["merdeka belajar kampus merdeka"]
+    },
+    "minat": {
+      "sinonim": ["keinginan", "ketertarikan", "hasrat"]
+    },
+    "hasil belajar siswa": {
+      "sinonim": ["prestasi siswa", "kinerja siswa", "capaian belajar siswa"]
+    },
+    "informatika": {
+      "sinonim": ["komputer", "teknologi informasi", "komputer sains", "sains komputer"]
+    },
+    "performa device": {
+      "sinonim": ["kinerja perangkat", "performa perangkat", "kemampuan device"]
+    },
+    "visualisasi data": {
+      "sinonim": ["representasi grafis data", "pemetaan data", "tampilan visual data"]
+    },
+    "robotika": {
+      "sinonim": ["ilmu robot", "teknologi robot", "rekayasa robot", "robot"]
+    },
+    "kecerdasan buatan": {
+      "sinonim": ["artificial intelligence", "inteligensi buatan", "kecerdasan tiruan", "ai"]
+    },
+    "hukum": {
+      "sinonim": ["undang-undang", "peraturan", "aturan hukum"]
+    },
+    "sistem informasi": {
+      "sinonim": ["sistem komputer", "sistem data", "sistem pengolahan informasi"]
+    },
+    "keamanan komputer": {
+      "sinonim": ["keamanan sistem", "keamanan jaringan", "proteksi komputer"]
+    },
+    "multimedia": {
+      "sinonim": ["komunikasi digital", "teknologi multimedia", "konten interaktif"]
+    },
+    "web development": {
+      "sinonim": ["pengembangan web", "pembuatan website", "program web"]
+    },
+    "bahasa pemrograman": {
+      "sinonim": ["programming language", "kode pemrograman", "linguistik pemrograman"]
+    },
+    "internet of things": {
+      "sinonim": ["iot"]
+    },
+    "machine learning": {
+      "sinonim": ["pembelajaran mesin", "komputasi cerdas", "pemodelan data", "sistem cerdas"]
+    },
+    "cloud computing": {
+      "sinonim": ["komputasi awan", "komputasi berbasis awan", "teknologi cloud", "cloud"]
+    },
+    "virtual reality": {
+      "sinonim": ["realitas maya", "simulasi virtual, vr"]
+    },
+    "data scientist": {
+      "sinonim": ["analis data"]
+    }
+}
